@@ -1,0 +1,34 @@
+body {
+
+    background: url(imagem/fundo-cinza-claro2.webp);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+}
+
+
+img {
+    border: rgb(0, 0, 0)10px solid;
+
+}
+
+
+iframe {
+    border-radius: 10px;
+}
+
+
+h1 {
+    color: rgb(13, 0, 190);
+}
+
+h2 {
+    color: rgb(13, 0, 190);
+}
+
+h3 {
+    color: rgb(13, 0, 190);
+}
+
+h4 {
+    color: rgb(13, 0, 190);
+}
